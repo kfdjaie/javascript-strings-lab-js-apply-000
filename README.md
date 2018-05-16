@@ -1,4 +1,3 @@
-Yeah, that fixed iit.
 # JavaScript Strings Lab
 
 ![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
